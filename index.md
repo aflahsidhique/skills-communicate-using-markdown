@@ -29,3 +29,9 @@ created 6 headings from large to small size using markdown
 </body>
 </html>
 ```
+
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
