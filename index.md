@@ -16,3 +16,16 @@ created 6 headings from large to small size using markdown
 
 
 ![My Profile Picture](https://avatars.githubusercontent.com/u/81468620?v=4)
+
+
+``` html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+```
